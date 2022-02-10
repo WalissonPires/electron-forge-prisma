@@ -29,3 +29,7 @@ module.exports = {
   }
 };
 ```
+
+References:
+
+https://github.com/prisma/prisma/issues/6564
